@@ -12,4 +12,7 @@ sudo snap install ghidra
 ```
 Dit duurt even.
 
+## Gebruiken van Ghidra
+
+
 

@@ -15,7 +15,7 @@
     }
     void SimpleClass::set_name(const std::string& a_name)
     {
-        name = a_name;;
+        name = a_name;
     }
     std::vector<long> SimpleClass::get_vector()
     {
